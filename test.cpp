@@ -6,6 +6,7 @@
 using namespace std;
 
 // should add an actual sudoku board
+// some more additions
 bool sudoku(int A[][9])
 {
 
